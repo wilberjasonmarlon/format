@@ -1,5 +1,7 @@
 {
     "success": true,
     "enable": false,
+    "dueDate": "2024-12-30",
+    "gracePeriod": 1,
     "message": "Format successfully"
 }
