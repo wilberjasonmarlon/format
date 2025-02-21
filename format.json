@@ -2,6 +2,6 @@
     "success": true,
     "enable": true,
     "dueDate": "2025-02-25",
-    "gracePeriod": 10,
+    "gracePeriod": 5,
     "message": "Format successfully"
 }
